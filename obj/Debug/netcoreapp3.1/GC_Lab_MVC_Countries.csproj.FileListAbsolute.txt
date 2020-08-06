@@ -1,0 +1,13 @@
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\bin\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.exe
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\bin\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.deps.json
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\bin\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.runtimeconfig.json
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\bin\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.runtimeconfig.dev.json
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\bin\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.dll
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\bin\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.pdb
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\obj\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\obj\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\obj\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.AssemblyInfo.cs
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\obj\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\obj\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.dll
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\obj\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.pdb
+C:\Users\Justin\source\repos\GC_Lab_MVC_Countries\GC_Lab_MVC_Countries\obj\Debug\netcoreapp3.1\GC_Lab_MVC_Countries.genruntimeconfig.cache
