@@ -8,11 +8,6 @@ namespace GC_Lab_MVC_Countries
     {
         public Country DisplayCountry { get; set; }
 
-        //public CountryView()
-        //{
-
-        //}
-
         public CountryView(Country country)
         {
             DisplayCountry = country;
@@ -26,9 +21,11 @@ namespace GC_Lab_MVC_Countries
 
             for (int i = 0; i < DisplayCountry.Colors.Count; i++)
             {
+                Console.ForegroundColor = DisplayCountry.PrintColor[i];
                 Console.WriteLine($"{DisplayCountry.Colors[i]}");
             }
-            
+
+            Console.ResetColor();
         }
 
     }

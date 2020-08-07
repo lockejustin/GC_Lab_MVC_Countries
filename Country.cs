@@ -23,13 +23,14 @@ namespace GC_Lab_MVC_Countries
         public Continent Continent { get; set; }
 
         public List<string> Colors { get; set; }
-        public List<KnownColor> Colors2 { get; set; }
+        public List<ConsoleColor> PrintColor { get; set; }
 
-        public Country(string name, Continent continent, List<string> colors)
+        public Country(string name, Continent continent, List<string> colors, List<ConsoleColor> printColor)
         {
             Name = name;
             Continent = continent;
             Colors = colors;
+            PrintColor = printColor;
         }
 
 
